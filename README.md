@@ -32,8 +32,8 @@ storey structure.
 
 We are concerned here with C-jets, i.e. interactions in
 Because of small radiation thickness of the target layer.
-the target layer and the presence of air gap, gamma-rays gene-
-rated in a C-jet penetrate through the target layer without
+the target layer and the presence of air gap, gamma-rays generated 
+in a C-jet penetrate through the target layer without
 materialization and arrive at the level of lower detector with
 large enough mutual distances among them.
 This makes a contrast with the shower development in a homogeneous
